@@ -1,2 +1,2 @@
 # platzi
-Estableciendo conexion
+Estableciendo conexión entre GitHub y un repositorio local.
