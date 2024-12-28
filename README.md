@@ -1,4 +1,4 @@
 # platzi
 Estableciendo conexión entre GitHub y un repositorio local.
 
-Mi primera contribucciópn local para github.
+Mi primera contribucción local para github.
